@@ -1,33 +1,22 @@
-# python_tutorial
+# Introduction to Python
+ + An interpreted high-level programming language for general-purpose programming
+ + Created by Guido van Rossum and first released in 1991
+  + Python has a design philosophy that emphasizes code readability, notably using significant whitespace
+ + Python is scalable and offers flexibility allowing one to write a code for something as simple as file-based processing to data analysis leveraging on modules such as pandas and numpy.
 
-One Paragraph of project description goes here
+---
 
-## Getting Started
+## Expectations
++ Python is installed
+ + If not, download from [www.python.org](www.python.org)
+ + Alternatively, consider packaged distributions such as Anaconda: https://www.anaconda.com/download/ which contains Python that can be launched via Jupyter.
+ + Familiar with basic programming terms
++ This repository contains a set of direct samples for daily Python use.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+## A few basic notes...
+For those with some background in other programming languages, here's the lowdown for Python:
++ Be **CONSISTENT**:
+ + It is space and tab sensitive - mixing spaces and tabs are not allowed
+ + Using a single quote (') or double quotes (") makes no difference
++ Python 3 requires any print statement to be in brackets while it is optional in previous versions
