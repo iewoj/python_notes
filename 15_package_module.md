@@ -3,6 +3,8 @@
 + The example below shows user_functions package with two modules: *greetings* and *basic_add*
 
 ### From user_functions:
++ Copy the code below and save in the same directory as "user_functions.py"
+
 ```
 def greetings (name = 'none'):
     print('Hello {}'.format(name))
@@ -35,4 +37,3 @@ basic_add(2,3)
 
     Hello Spock
     Result of addition: 5
-    

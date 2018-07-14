@@ -21,6 +21,10 @@ For those with some background in other programming languages, here's the lowdow
  + Using a single quote (') or double quotes (") makes no difference
 + Python 3 requires any print statement to be in brackets while it is optional in previous versions
 
+### TODO:
++ Work on Regex
++ etc. minor improvements
+
 ## Navigation
 + [1   - Primitive Data Structures](1_primitive_data_structures.md)
 + [2   - Variable Manipulation](2_variable_manipulation.md)

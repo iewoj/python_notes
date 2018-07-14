@@ -4,9 +4,6 @@
 + Polymorphism is an important feature of class definition in Python that is utilized when you have commonly named methods across classes or subclasses. This allows functions to use objects of any of these polymorphic classes without needing to be aware of distinctions across the classes.
 + Based on the class, it can return different definitions with the same "interface"
 
-+ A few good picture examples:
-![image.png](attachment:image.png)
-![image.png](attachment:image.png)
 
 
 ```python

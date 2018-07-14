@@ -41,4 +41,6 @@ output = fh.readlines()
 print(output)
 ```
 
+```
 ['Fri 07/13/2018 \n']
+```

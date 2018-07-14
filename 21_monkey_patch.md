@@ -1,6 +1,6 @@
 ## Monkey patch - mask functions
 
-Here we overwite the function definition of randint and 'hijack' it to monkeypatch, which always return unavailable
+Here we overwrite the function definition of randint and 'redirect' it to monkeypatch, which will always return unavailable
 
 
 ```python
