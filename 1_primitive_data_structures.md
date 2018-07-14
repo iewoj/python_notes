@@ -45,4 +45,3 @@ print("Value: {}, and Type: {}".format(a, type(a)))
 ```
 
     Value: True, and Type: <class 'bool'>
-    
