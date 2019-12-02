@@ -23,7 +23,6 @@ For those with some background in other programming languages, here's the lowdow
 
 ### TODO:
 + Work on Regex
-+ etc. minor improvements
 
 ## Navigation
 + [1   - Primitive Data Structures](1_primitive_data_structures.md)
